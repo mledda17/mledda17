@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
-<h3 align="center">A passionate student of AI from Italy</h3>
+<h3 align="center">A passionate student of Cybersecurity and AI from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mledda17&label=Profile%20views&color=0e75b6&style=flat" alt="mledda17" /> </p>
 
